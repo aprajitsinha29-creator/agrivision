@@ -1,0 +1,6 @@
+{
+  "name": "AgriVision",
+  "description": "Plant leaf disease diagnostic tool providing instant visual analysis, disease identification, confidence rating, and agricultural recommendations for tomato crops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
